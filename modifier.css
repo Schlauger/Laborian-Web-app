@@ -1,0 +1,46 @@
+body{
+background-image:url("backr1.jpg");
+
+background-attachment:scroll;
+
+}
+
+
+table{
+          
+           border:1px;
+           border-spacing:5px 10px;
+           caption-side: top center;
+           empty-cells:hide;
+           table-layout:auto;
+           padding:15px;
+           test-align:center;
+           background:tranparent;
+//           background-image:url("old scroll.jpg");
+}
+
+th {
+text-decoration-color: white;
+  padding: 5px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 2px solid #000080;
+}
+
+tr, td{
+ padding-top: 5px;
+ border-top: 0px;
+  border-right: 0px;
+border-bottom: 3px solid #808080;
+}
+tr:hover{
+background-color:#e0e0e0;
+}
+td:hover{
+background-color:#c0a0c0;
+font-size:110%;
+}
+
+
+
+
